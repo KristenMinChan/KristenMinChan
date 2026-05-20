@@ -12,6 +12,7 @@ Now I'm going deeper — learning the full AI stack in public and
 building tools that solve problems businesses actually have.
 
 Enterprise Data Analytics Specialist, AI and Data, NXP Semiconductors
+
 MS Business Analytics, UT Dallas (Scholar of Distinction, GPA 3.9)
 
 ---
