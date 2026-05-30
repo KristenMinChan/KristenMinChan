@@ -2,7 +2,7 @@
 
 I don't just talk about AI — I build with it.
 
-At my current enterprise role I have shipped production-grade AI 
+At my current enterprise role I have shipped production-grade 
 automation systems that real teams depend on daily. Intelligent 
 monitoring pipelines. Self-healing analytics infrastructure. 
 Automated governance frameworks. AI-assisted workflows that replaced 
