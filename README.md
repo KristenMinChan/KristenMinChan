@@ -44,6 +44,7 @@ commit history that shows the thinking behind every decision.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [Usage Surge Alert Agent](https://github.com/KristenMinChan/usage-surge-alert-agent) | Detects resource usage surges, generates PII-protected AI alert emails, delivers to operator inbox for human-in-the-loop approval | Python, Gemini API, Gmail SMTP |
+| [kdpgen](https://github.com/KristenMinChan/kdpgen) | Builds a print-ready coloring book for Amazon KDP from a JSON spec, with method notes from making one real book | Python, Pillow, ReportLab, PyMuPDF, potrace |
 
 ---
 
