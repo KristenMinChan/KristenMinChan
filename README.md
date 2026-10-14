@@ -29,6 +29,7 @@ platform.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [streamwatch](https://github.com/KristenMinChan/streamwatch) | Detects when a recurring recording has finished publishing and emails a ready-to-paste package. Finds new items by structure rather than by title, because title formats drift and structure does not. Alerts when an expected item never arrives. Method notes plus a sanitised code snapshot | Google Apps Script |
 | [Usage Surge Alert Agent](https://github.com/KristenMinChan/usage-surge-alert-agent) | Detects resource usage surges, generates PII-protected AI alert emails, delivers to operator inbox for human-in-the-loop approval | Python, Gemini API, Gmail SMTP |
 | [kdpgen](https://github.com/KristenMinChan/kdpgen) | Builds a print-ready coloring book for Amazon KDP from a JSON spec, with method notes from making one real book | Python, Pillow, ReportLab, PyMuPDF, potrace |
 
