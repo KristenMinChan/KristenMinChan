@@ -1,41 +1,27 @@
 # Min Chan (Kristen)
 
-I don't just talk about AI — I build with it.
+I help people offload the busywork to AI, so they can lead with
+their strengths and get their attention back.
 
-At my current enterprise role I have shipped production-grade 
-automation systems that real teams depend on daily. Intelligent 
-monitoring pipelines. Self-healing analytics infrastructure. 
-Automated governance frameworks. AI-assisted workflows that replaced 
-hours of manual work across cross-functional teams.
-
-Now I'm going deeper — learning the full AI stack in public and 
-building tools that solve problems businesses actually have.
-
-Enterprise Data Analytics Specialist, AI and Data, NXP Semiconductors
+I build automation and AI systems for people and small teams who do
+the same manual work every week and have no one to hand it to. Most
+of my building is done in collaboration with AI rather than solo
+hand-coding, and I say so openly.
 
 MS Business Analytics, UT Dallas (Scholar of Distinction, GPA 3.9)
 
 ---
 
-## 🔨 What I've shipped at enterprise scale
-
-- AI-enabled capacity monitoring with anomaly detection and 
-  automated alerting across enterprise BI infrastructure
-- Self-healing Tableau analytics extensions with automated 
-  watchdog recovery — reducing manual intervention at scale
-- Python and REST API pipelines for automated data governance 
-  audits across enterprise reporting systems
-- Power Automate pipelines for operational KPI tracking with 
-  proactive anomaly detection
-
----
-
 ## 🤖 What I'm building now
 
-**Automating Min** — building AI automation tools in public.
-Every project is production-minded from day one: secure credential 
-management, PII protection, human-in-the-loop design, and clean 
-commit history that shows the thinking behind every decision.
+**Automating Min.** AI automation tools, built in public. Every
+project is production-minded from day one: secure credential
+management, PII protection, human-in-the-loop review, and a commit
+history that shows the thinking behind each decision.
+
+Current work includes a weekly publishing pipeline for a nonprofit
+media team, and a front-end redesign built on a partner's existing
+platform.
 
 ---
 
@@ -48,19 +34,37 @@ commit history that shows the thinking behind every decision.
 
 ---
 
+## 🔨 Before this
+
+Enterprise BI enablement at NXP Semiconductors, March 2024 to July
+2026. What I shipped there:
+
+- Real-time Power BI dashboards with automated alerting for
+  infrastructure usage monitoring
+- Self-healing Tableau analytics extensions with an automated
+  watchdog, cutting recurring manual intervention
+- A Python and Tableau REST API governance audit framework,
+  replacing days of manual audit work with on-demand visibility
+- Power Automate pipelines for operational KPI tracking with
+  proactive anomaly detection
+- Supported Databricks adoption for 200+ colleagues through office
+  hours, 1:1 coaching, and documented playbooks
+
+---
+
 ## 🛠 Skills
 
-**AI & Automation:** Claude API, Gemini API, Python, n8n,
-Power Automate, Microsoft Copilot
+**AI & Automation:** Claude API, Claude Code, Gemini API, Python,
+n8n, Power Automate, Google Apps Script
 
 **Data & Analytics:** Power BI (advanced DAX, Power Query,
-dataflows), SQL, Tableau, Excel, R
+dataflows), SQL, Tableau, Databricks, Excel, R
 
-**Enterprise tools:** Salesforce, SharePoint, Jira,
+**Enterprise tools:** Salesforce, SharePoint, ServiceNow, Jira,
 Google Analytics, GraphQL APIs
 
 **Practices:** PII tokenization, secure credential management,
-human-in-the-loop design, Git version control
+human-in-the-loop design, fail-loudly monitoring
 
 ---
 
@@ -69,5 +73,5 @@ human-in-the-loop design, Git version control
 Follow the Automating Min series on LinkedIn:
 [linkedin.com/in/Min-Chan-Kristen](https://linkedin.com/in/Min-Chan-Kristen)
 
-Every project documents what broke, what I questioned,
-and what I'd do differently.
+Every project documents the real numbers, the real cost, and what I
+learned that I didn't know before.
